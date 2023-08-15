@@ -1,3 +1,0 @@
-Name: Piyush Singh
-Skills: HTML, CSS, JS
-Email: 19piyush98@gmail.com
